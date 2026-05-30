@@ -4,8 +4,6 @@ Visualises the volume of every audio file in a folder as overlapping graphs,
 making it easy to spot unusual peaks, inconsistent loudness, or outlier tracks
 at a glance.
 
-![Example graph showing overlapping blue track curves with yellow median, purple mean, and red 0 dB line](example.png)
-
 ---
 
 ## What it shows
